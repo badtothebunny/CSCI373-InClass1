@@ -1,5 +1,5 @@
 //GameEntry Class declaration section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 #ifndef GAMEENTRY_H
 #define GAMEENTRY_H
 #include <string> //this is for using string type
@@ -16,3 +16,4 @@ class GameEntry
 };
 
 #endif
+
