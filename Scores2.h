@@ -1,5 +1,5 @@
 //Scores Class declaration section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 #ifndef SCORES_H
 #define SCORES_H
 #include "GameEntry.h" //Including parent class here
@@ -19,3 +19,4 @@ class Scores
 };
 
 #endif
+
